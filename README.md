@@ -27,7 +27,7 @@ npm install --save-dev enzyme react-test-renderer
 You will need to install and configure the Enzyme Adapter by running the commonad and creating the following files so it know show to communicate with React.
 
 ```sh
-npm i --save-dev enzyme enzyme-adapter-react-15
+npm install --save-dev enzyme enzyme-adapter-react-15
 ```
 
 ```javascript
